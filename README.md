@@ -1,4 +1,4 @@
-# EcoCompute Cloud Optimization Suite 🌱💰
+# Eco Compute Cloud Optimization Suite 🌱💰
 
 An end-to-end full-stack cloud infrastructure monitoring and sustainability orchestration platform.
 
